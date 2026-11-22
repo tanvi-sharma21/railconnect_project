@@ -45,7 +45,7 @@ railconnect_project/
 │
 ├── tests/
 │
-├── .env.example
+ screenshots
 ├── requirements.txt
 └── README.md
 ```
